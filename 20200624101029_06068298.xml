@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>20200624101029_06068298.jpg</filename>
+	<path>D:\CPOS AI\OD_LPR\data\20200624101029_06068298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>510</ymin>
+			<xmax>1127</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymin>1</ymin>
+			<xmax>1402</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

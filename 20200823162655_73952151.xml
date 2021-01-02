@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pendding_20200913_1</folder>
+	<filename>20200823162655_73952151.jpg</filename>
+	<path>D:\CPOS AI\OD_LPR\pendding_20200913_1\20200823162655_73952151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>20</ymin>
+			<xmax>1212</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>664</xmin>
+			<ymin>342</ymin>
+			<xmax>1045</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

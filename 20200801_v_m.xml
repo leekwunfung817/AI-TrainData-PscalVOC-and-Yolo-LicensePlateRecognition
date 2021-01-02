@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>20200801_v_m.jpg</filename>
+	<path>D:\CPOS AI\OD_LPR\data\20200801_v_m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>71</ymin>
+			<xmax>533</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder></folder>
+		<filename>20200725183140_0459819330.jpg</filename>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<path>20200725183140_0459819330.jpg</path>
+		<size>
+			<width>1920</width>
+			<height>1080</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>License Plate</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1072</xmin>
+				<ymin>521</ymin>
+				<xmax>1363</xmax>
+				<ymax>695</ymax>
+			</bndbox>
+		</object>
+	</annotation>
