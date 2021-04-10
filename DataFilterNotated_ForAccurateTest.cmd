@@ -1,1 +1,0 @@
-python "DataFilterNotated_ForAccurateTest.py" OD_CTR OD_LPR
