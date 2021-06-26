@@ -1,0 +1,7 @@
+classes= 2
+train  = train.txt
+valid  = valid.txt
+names = data/predefined_classes.txt
+backup = backup
+eval=cpos
+
