@@ -1,7 +1,1 @@
-whole car
-license plate
-headlight
-heat sink
-car reel
-car shell
-car brand
+License Plate
